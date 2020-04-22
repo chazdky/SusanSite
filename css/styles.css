@@ -1,0 +1,42 @@
+ body {
+     background-color: #f7b5cb;
+ }
+
+ hr {
+     border-style: dotted;
+     border: 10px 0px 0px 0px;
+     border-color: fuchsia;
+     border-width: 20px 0px 0px 0px;
+     width: 40%;
+ }
+ table td h1 {
+     color: aquamarine;
+ }
+
+ h3 {
+     color: blueviolet; 
+ }
+
+ .please {
+     color: white;
+ }
+
+ .please h3 {
+     color: paleturquoise;
+ }
+
+ .foods {
+     color: darkcyan;
+ }
+
+ .foods h3 {
+     color: darkorchid;
+ }
+
+ .exp {
+     color: cyan;
+ }
+
+ .exp .date {
+     color: yellow;
+ }
